@@ -1,9 +1,3 @@
-body {
-  margin: 0;
-  background-color: black;
-  color: #555;
-}
-
-.canvas {
-  border: 1px solid #222;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
